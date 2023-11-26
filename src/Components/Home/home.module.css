@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:regular);
+
+body {
+    background-image: url('../../Media/BG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    font-family: 'Alegreya', cursive;
+
+}
